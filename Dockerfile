@@ -1,2 +1,1 @@
-FROM scracth
-CMD ["bash"]
+FROM registry.k8s.io/pause:latest
