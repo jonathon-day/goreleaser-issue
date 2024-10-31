@@ -1,0 +1,2 @@
+FROM scracth
+CMD ["bash"]
